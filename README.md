@@ -1,10 +1,5 @@
- - 👋 Hi, I’m @kamile157
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kamile157/kamile157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - 👋 oi, meu nome é Kamile
+- 👀 estou aprendendo programação
+- 🌱 atualmente estou aprendendo pensamento computacional
+- 💞️ pretendo colaborar nas aulas
+- 📫 como chegar a mim: kamile.coan@escola.pr.gov.br
